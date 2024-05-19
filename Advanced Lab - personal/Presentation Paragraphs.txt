@@ -1,0 +1,18 @@
+Introduction
+------------
+
+Main Idea
+---------
+
+Instrumentation
+---------------
+
+The detector that we used is made up of two parts: a NaI scintillator and a photomultiplier. Likewise, the process of the detetcion can be thought of as being in two different stages, each involving one of the components. In the first stage, the scintillator helps to convert the emitted gamma-rays into visible light.    
+
+
+Data Analysis
+-------------
+
+Special Topic Calculations
+--------------------------
+
